@@ -21,7 +21,7 @@ Column Profiling:
 
 datetime: datetime <br>
 season: season (1: spring, 2: summer, 3: fall, 4: winter) <br>
-holiday: whether day is a holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule) <br>
+holiday: whether day is a holiday or not  <br>
 workingday: if day is neither weekend nor holiday is 1, otherwise is 0. <br>
 weather: <br>
 1: Clear, Few clouds, partly cloudy, partly cloudy <br>
